@@ -1,0 +1,11 @@
+.navbar{
+    background: rgb(48,5,77);
+background: linear-gradient(90deg, rgba(48,5,77,1) 0%, rgba(97,19,120,1) 51%, rgba(202,133,241,1) 100%);
+}
+
+
+
+.cardProductos{
+    width: 50px;
+    padding: 20px;
+}
